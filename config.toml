@@ -169,7 +169,7 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.zh-tw]
-    #subtitle  = "我是誰"
+    subtitle  = ""
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   
