@@ -3,7 +3,6 @@ title = "關於我"
 date = "2022-10-10"
 [ author ]
   name = "Achi-kyw"
-description: Achi_kyw的個人簡介
 +++
 
 ## 關於Achi_kyw
