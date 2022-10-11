@@ -1,0 +1,66 @@
+#!/bin/sh
+
+##############################################
+# 確認本地靜態資源包是否存在，是的話就移除
+##############################################
+set -e
+# 移除上次可能留下的 original public repository
+if [ -d "origin-public-repo" ]; then
+  rm -rf origin-public-repo
+fi
+# 移除上次可能留下的 hugo 產生的 new public
+if [ -d "public" ]; then
+  rm -rf public
+fi
+
+##############################################
+# Clone public origin project
+##############################################
+git clone
+# 更名 littlebookboy.github.io 為 origin-public-repo
+git@github.com:achi-kyw.github.io.git origin-public-repo
+
+##############################################
+# Run `hugo` to Re-Build the project.
+##############################################
+hugo -t "tranquilpeak"
+
+##############################################
+# hugo 打包不會產生的檔案，但需被一同提交（保留的檔案）
+##############################################
+#   - .git
+#   - CNAME
+#   - README.md
+cp -R ./origin-public-repo/.git ./public
+cp ./origin-public-repo/CNAME ./public
+cp ./origin-public-repo/README.md ./public
+cd public
+
+##############################################
+# Add changes to git.
+##############################################
+git add .
+
+##############################################
+# Commit changes. (保留原腳本做法)
+##############################################
+msg="rebuilding site $(date)"
+if [ -n "$*" ]; then
+	msg="$*"
+fi
+git commit -s -m "$msg"
+
+##############################################
+# Push the /public source and build repos.
+##############################################
+# 使用 --force，just in case，
+# 請確定你知道自己在幹嘛在移除註解，套用 force push
+git push origin master # --force
+
+##############################################
+# 備份: 一併執行提交本次 ./myblog 異動到另一個資源庫
+##############################################
+cd ..
+git add .
+git commit -m "update blog"
+git push origin master
