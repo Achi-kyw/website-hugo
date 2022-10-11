@@ -6,7 +6,7 @@ git init
 git remote add origin https://github.com/achi-kyw/achi-kyw.github.io.git
 git add .
 git commit -m "Initial commit"
-git push -u origin master
+git push -u origin master -f
 
 cd ../
 git init
