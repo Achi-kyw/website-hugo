@@ -64,11 +64,13 @@ description: 111學年度第一學期修課回顧
 
 另外期中考試如果有好好準備也能拿高分，特別的是最後有個Final Project，只要做的內容屬於跟Computer Science有關的領域即可，雖然大部分的人都用Jack aka 那個網站附的物件導向「高階」語言，不過這語言有不少缺點，就不一一贅述。
 
-很榮幸在Final Project 能與系上的一位電神雞塊合作，他在Final Project協助了我很多，非常感謝他帶我飛，不然我期末就燒雞了，這是[我們的作品]。(https://github.com/rk42745417/jack_shooting_game)。
+很榮幸在Final Project 能與系上的一位電神雞塊合作，他在Final Project協助了我很多，非常感謝他帶我飛，不然我期末就燒雞了，這是[我們的作品](https://github.com/rk42745417/jack_shooting_game)。
 
 ## 國會與憲政民主
 
 涼到爆的通識，主要在講美國國會的程序等等，期末是一周的期末考和期末報告，雖然也是在死線前完成就是。
+
+我的報告做的蠻糟的，還是拿了A，算不錯吧
 
 ## 普通物理學甲上
 
