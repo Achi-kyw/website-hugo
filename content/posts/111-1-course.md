@@ -12,6 +12,7 @@ toc: false
 katex: true
 keywords:
   - 生活紀錄
+  - 修課
 description: 111學年度第一學期修課回顧
 ---
 以前沒有寫過類似的文章，這篇就當試試水溫吧。
