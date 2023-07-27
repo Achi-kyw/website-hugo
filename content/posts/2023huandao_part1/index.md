@@ -51,30 +51,29 @@ description: 臺北-蘇澳-花蓮-台東-新左營
 
 很少能在這麼早的時間搭車，因此也特別記錄到兩班很早就發的車。
 
-{{< figure src="train_1_taipei.jpg" width="50%"  caption="環島觀光列車1次，臺北逆時針環島一圈，這個檔期是迪士尼主題，訂票要去找易遊網" >}}
-{{< figure src="train_161_taipei.jpg" width="50%"  caption="原本臺中-臺東的377次這次改點改由七堵發車，讓早上西部南下多了個選擇">}}
+{{< figure src="train_1_taipei.jpg" width="100%"  caption="環島觀光列車1次，臺北逆時針環島一圈，這個檔期是迪士尼主題，訂票要去找易遊網" >}}
+{{< figure src="train_161_taipei.jpg" width="100%"  caption="原本臺中-臺東的377次這次改點改由七堵發車，讓早上西部南下多了個選擇">}}
 
 ## 臺北-蘇澳 4138次
 
-{{< figure src="train_4138_taipei.jpg" width="50%"  caption="4138次的(中壢-蘇澳)車型是EMU700，不過這次旅途沒特別記編組">}}
+{{< figure src="train_4138_taipei.jpg" width="100%"  caption="4138次的(中壢-蘇澳)車型是EMU700，不過這次旅途沒特別記編組">}}
 
 踏上這班車開始這次的旅程。4138次在臺北待避太魯閣402，停靠10分鐘，所以這班車06:07就來了。另外臺北-福隆段是之前就每站都停過的段，所以沒有特別紀錄。於是開始滑手機玩遊戲，玩到後面才發現手機電量沒辦法這樣用來撐過整天，加上行充線忘記帶，才意識到不能這麼頻繁用手機，後面就開始找電源充電之旅。
 
 鑽出草嶺隧道便是太平洋了，尤其是石城=外澳路段是直面太平洋的海景，還可以看到龜山島。
 
-{{< figure src="Dali-Daxi.jpg" width="50%"  caption="攝於大里-大溪間，龜山島及奇怪的鳥">}}
+{{< figure src="Dali-Daxi.jpg" width="100%"  caption="攝於大里-大溪間，龜山島及奇怪的鳥">}}
 
-{{< figure src="Dingpu.jpg" width="50%"  caption="臺北捷運同名不同地站1-頂埔">}}
+{{< figure src="Dingpu.jpg" width="100%"  caption="臺北捷運同名不同地站1-頂埔">}}
 
-在宜蘭站待避408次。
+{{< youtube PtkOSn7hx5w >}}
+在宜蘭站待避408次
 
-{{< video autoplay="false" loop="false" src="Yilan-4138-408.mp4" width="50%" caption="">}}
-
-{{< figure src="Xinma.jpg" width="50%"  caption="工程中的新馬站">}}
+{{< figure src="Xinma.jpg" width="100%"  caption="工程中的新馬站">}}
 
 ## 蘇澳
 
-{{< figure src="Suao.jpg" width="50%"  caption="略顯冷清的蘇澳站">}}
+{{< figure src="Suao.jpg" width="100%"  caption="略顯冷清的蘇澳站">}}
 
 北迴鐵路沒通車前這裡曾是大站，但北迴鐵路通車加上蘇澳人口外移，這裡漸漸變得冷清。
 
@@ -86,7 +85,7 @@ description: 臺北-蘇澳-花蓮-台東-新左營
 
 ## 蘇澳-蘇澳新 4019次
 
-{{< figure src="train_4019_suao.jpg" width="50%"  caption="4019次(蘇澳-樹林)，EMU800">}}
+{{< figure src="train_4019_suao.jpg" width="100%"  caption="4019次(蘇澳-樹林)，EMU800">}}
 
 改點的時候多了這班，不然原本在排的時候還想說怎麼從蘇澳接回蘇澳新，甚至發現走路要46分鐘，還好有這班車。
 
@@ -94,29 +93,29 @@ description: 臺北-蘇澳-花蓮-台東-新左營
 
 ## 蘇澳新-花蓮 4146次
 
-{{< figure src="train_4146_suaoxin.jpg" width="50%"  caption="4019次(宜蘭-花蓮)，EMU500">}}
+{{< figure src="train_4146_suaoxin.jpg" width="100%"  caption="4019次(宜蘭-花蓮)，EMU500">}}
 
 進到了這輩子可能永遠是通過的北迴線區間，有多紀錄一些照片。
 
 這個區間的區間車單向一天大概8班次，而且這一段待避的需求高很多（後面比較沒有對待避做紀錄），這班在這區間待避了3次，如果是假日甚至是4次。
 
-{{< figure src="Suaoxin-Yongle.jpg" width="50%"  caption="攝於蘇澳新-永樂間，蘇花改蘇澳東澳段">}}
+{{< figure src="Suaoxin-Yongle.jpg" width="100%"  caption="攝於蘇澳新-永樂間，蘇花改蘇澳東澳段">}}
 
-{{< figure src="Wuta.jpg" width="50%"  caption="這輩子可能不會去的武塔站">}}
+{{< figure src="Wuta.jpg" width="100%"  caption="這輩子可能不會去的武塔站">}}
 
-{{< figure src="Chongde-Xincheng.jpg" width="50%"  caption="崇德-新城站間，台9線太魯閣大橋">}}
+{{< figure src="Chongde-Xincheng.jpg" width="100%"  caption="崇德-新城站間，台9線太魯閣大橋">}}
 
-{{< figure src="Jingmei.jpg" width="50%"  caption="臺北捷運同名不同地站2-景美，在新城和北埔之間">}}
+{{< figure src="Jingmei.jpg" width="100%"  caption="臺北捷運同名不同地站2-景美，在新城和北埔之間">}}
 
 ## 花蓮
 
-{{< figure src="Hualien.jpg" width="50%"  caption="花蓮站外面的薑母鴨(?)">}}
+{{< figure src="Hualien.jpg" width="100%"  caption="花蓮站外面的薑母鴨(?)">}}
 
 到這裡才真的有哇我真的在環島的感覺。北迴線跟臺東線的車次很少，因此花蓮要停留一小時十八分鐘，也順便在這裡吃午餐。
 
 問了一個花蓮的同學並推薦給我這間餐廳，整體風格有點像春水堂，距離花蓮車站步行大概十分鐘的距離，但是正中午走過去還是挺熱的。
 
-{{< figure src="Hualien.jpg" width="50%"  caption="豬排飯（有點忘記確切名稱），不過應該點別的，因為下一餐是排骨便當">}}
+{{< figure src="Hualien.jpg" width="100%"  caption="豬排飯（有點忘記確切名稱），不過應該點別的，因為下一餐是排骨便當">}}
 
 才發現餐點其實會等有點久，中間甚至去買充電線但是買了發現還是用不了。這一餐沒多少時間享受就趕回去車站充電了。
 
@@ -124,7 +123,7 @@ description: 臺北-蘇澳-花蓮-台東-新左營
 
 ## 花蓮-臺東 4534次
 
-{{< figure src="train_4534_fuyuan.jpg" width="50%"  caption="4534次(花蓮-臺東)，EMU500">}}
+{{< figure src="train_4534_fuyuan.jpg" width="100%"  caption="4534次(花蓮-臺東)，EMU500">}}
 
 這段我覺得是本次旅途中的重點。其實花蓮臺東段很少有機會搭到，這輩子只有印象搭到兩次，一次是搭夜車根本沒辦法看風景，另一次是普悠瑪壽豐搭到臺東，但其實沒什麼機會享受風景。透個這次環島總算能飽覽縱谷風光。
 
@@ -134,25 +133,24 @@ description: 臺北-蘇澳-花蓮-台東-新左營
 
 這邊也順道紀錄了一些東線小站。
 
-{{< figure src="Pinghe.jpg" width="50%"  caption="榮，立直一發平和，其實這站才是離東華大學校門口最近的站，但志學站熱鬧多了">}}
+{{< figure src="Pinghe.jpg" width="100%"  caption="榮，立直一發平和，其實這站才是離東華大學校門口最近的站，但志學站熱鬧多了">}}
 
-{{< figure src="Fengtian.jpg" width="50%"  caption="用站名假裝自己在日本">}}
+{{< figure src="Fengtian.jpg" width="100%"  caption="用站名假裝自己在日本">}}
 
-在富源站交會423次。
+{{< youtube 5n3M-0SzaYc >}}
+在富源站交會423次
 
-{{< video autoplay="false" loop="false" src="Fuyuan-4534-423.mp4" width="50%" >}}
-
-{{< figure src="Yuli-Dongli.jpg" width="50%"  caption="玉里站南客城大橋旁，台鐵局徽的稻田">}}
+{{< figure src="Yuli-Dongli.jpg" width="100%"  caption="玉里站南客城大橋旁，台鐵局徽的稻田">}}
 
 經過整個花蓮縣大概花了五個小時，有夠長。
 
-{{< figure src="Guanshan.jpg" width="50%"  caption="關山(里壠)站舊站房">}}
+{{< figure src="Guanshan.jpg" width="100%"  caption="關山(里壠)站舊站房">}}
 
-{{< figure src="Shanli.jpg" width="50%"  caption="台鐵最隱密車站之一的山里，北迴通車後東拓時鹿野至臺東捨棄行經初鹿台地的舊線改走遠離人煙的卑南溪畔，因為交會需求才設此站，據說站內有不少貓">}}
+{{< figure src="Shanli.jpg" width="100%"  caption="台鐵最隱密車站之一的山里，北迴通車後東拓時鹿野至臺東捨棄行經初鹿台地的舊線改走遠離人煙的卑南溪畔，因為交會需求才設此站，據說站內有不少貓">}}
 
 ## 臺東
 
-{{< figure src="Taitung.jpg" width="50%"  caption="逆光的臺東車站">}}
+{{< figure src="Taitung.jpg" width="100%"  caption="逆光的臺東車站">}}
 
 來臺東車站好幾次了，但都覺得這附近真的不像大車站附近該有的樣子。
 
@@ -168,49 +166,48 @@ description: 臺北-蘇澳-花蓮-台東-新左營
 
 ## 臺東-枋寮 3038次
 
-{{< figure src="TRBento.jpg" width="50%"  caption="便當本人，用這張圖代表3038次(臺東-新左營)，EMU900">}}
+{{< figure src="TRBento.jpg" width="100%"  caption="便當本人，用這張圖代表3038次(臺東-新左營)，EMU900">}}
 
 這段又進到太平洋海景段了，只搭到枋寮的原因是枋寮-潮州沒有站站停過所以決定在枋寮換下一班，車上挺空的，用EMU900根本在載空氣。
 
-{{< figure src="Taimali.jpg" width="50%"  caption="太麻里的「櫻木花道平交道」，我是覺得差很多啦">}}
+{{< figure src="Taimali.jpg" width="100%"  caption="太麻里的「櫻木花道平交道」，我是覺得差很多啦">}}
 
-{{< figure src="Jinlun.jpg" width="50%"  caption="金崙段南迴改「最美高架橋」，是覺得挺醜得但這段的功能性比較重要">}}
+{{< figure src="Jinlun.jpg" width="100%"  caption="金崙段南迴改「最美高架橋」，是覺得挺醜得但這段的功能性比較重要">}}
 
-多良附近的海景影片：
+{{< youtube ZCEkw5IhM1w>}}
+多良附近的海景影片
 
-{{< video autoplay="false" loop="false" src="Duoliang.mp4" width="50%" >}}
-
-{{< figure src="Fangye.jpg" width="50%"  caption="不辦客的枋野站，是三等站不是號誌站，網路上不少人寫錯">}}
+{{< figure src="Fangye.jpg" width="100%"  caption="不辦客的枋野站，是三等站不是號誌站，網路上不少人寫錯">}}
 
 接著是一天只有南下北上各兩班車的南迴三小站，看到這才覺得終於回到西部了。
 
-{{< figure src="South_Link_Three_Station.jpg" width="50%"  caption="一天只會顯示一次的稀有照片">}}
+{{< figure src="South_Link_Three_Station.jpg" width="100%"  caption="一天只會顯示一次的稀有照片">}}
 
-{{< figure src="Fangshan.jpg" width="50%"  caption="在獅子鄉的枋山站，距離大武30.2公里，遠處是台灣海峽">}}
+{{< figure src="Fangshan.jpg" width="100%"  caption="在獅子鄉的枋山站，距離大武30.2公里，遠處是台灣海峽">}}
 
-{{< figure src="Sunset.jpg" width="50%"  caption="日落，枋山-內獅間">}}
+{{< figure src="Sunset.jpg" width="100%"  caption="日落，枋山-內獅間">}}
 
-{{< figure src="Neishi.jpg" width="50%"  caption="在枋山鄉的內獅站（拍得很糊敬請見諒），每天進出平均不到一人的全台灣最小站">}}
+{{< figure src="Neishi.jpg" width="100%"  caption="在枋山鄉的內獅站（拍得很糊敬請見諒），每天進出平均不到一人的全台灣最小站">}}
 
-{{< figure src="Jialu.jpg" width="50%"  caption="明明站場很大，交會待避列車多但還是只停4班車的加祿站">}}
+{{< figure src="Jialu.jpg" width="100%"  caption="明明站場很大，交會待避列車多但還是只停4班車的加祿站">}}
 
 ## 枋寮
 
-{{< figure src="Fangliao.jpg" width="50%"  caption="枋寮站，注意站內的椅子都是蓮霧">}}
+{{< figure src="Fangliao.jpg" width="100%"  caption="枋寮站，注意站內的椅子都是蓮霧">}}
 
 原本規劃在這站買晚餐，但後來怕時間不夠所以就沒有了。
 
 ## 枋寮-潮州 3338次
 
-{{< figure src="train_3338_fangliao.jpg" width="50%"  caption="3338次(枋寮-潮州)，8輛EMU500">}}
+{{< figure src="train_3338_fangliao.jpg" width="100%"  caption="3338次(枋寮-潮州)，8輛EMU500">}}
 
 這班開在3038後面，因此沒有什麼人。到這裡已經是晚上了紀錄站牌記錄得有點失敗。
 
-{{< figure src="Jiadong.jpg" width="50%"  caption="少數記錄成功的佳冬站">}}
+{{< figure src="Jiadong.jpg" width="100%"  caption="少數記錄成功的佳冬站">}}
 
 ## 潮州-新左營 3272次
 
-{{< figure src="train_3272_fangliao.jpg" width="50%"  caption="3272次(潮州-彰化)，8輛EMU500">}}
+{{< figure src="train_3272_fangliao.jpg" width="100%"  caption="3272次(潮州-彰化)，8輛EMU500">}}
 
 不知道為什麼原本沒看到這班車次，不過後來因為有排平行轉乘所以接上了這班車，至於這段都沒有拍，是因為晚上了，這段經過數次（尤其是鳳山-新左營），加上手機快沒電了。
 
