@@ -12,6 +12,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
 
 googleAnalytics = "G-QRMWMZ87JM"
 disqusShortname = "achi-kyw"
+hasCJKLanguage = true
 
 archetypeDir = "archetypes"
 contentDir   = "content"
