@@ -73,7 +73,7 @@ description: 新左營-彰化-新竹-臺北
 
 {{< figure src="Zhuifen.jpg" width="100%"  caption="追分車站，沒有停下來買追分成功車票有些可惜">}}
 
-{{< figure src="Zhuifen.jpg" width="100%"  caption="日南車站，明明在大安溪以北卻劃給臺中市大甲區而非苗栗縣苑裡鎮">}}
+{{< figure src="Rinan.jpg" width="100%"  caption="日南車站，明明在大安溪以北卻劃給臺中市大甲區而非苗栗縣苑裡鎮">}}
 
 {{< figure src="Xinpu.jpg" width="100%"  caption="新埔車站，沒拍到木造站房用這張代替">}}
 
@@ -95,7 +95,7 @@ description: 新左營-彰化-新竹-臺北
 
 ## 新竹-六家 1744次
 
-{{< figure src="train_2184_zhunan.jpg" width="100%"  caption="1744次(新竹-六家)，EMU600">}}
+{{< figure src="train_1744_hsinchu.jpg" width="100%"  caption="1744次(新竹-六家)，EMU600">}}
 
 這裡是這幾天轉乘上最趕的地方，還要換月台，但也還好。曾經有想過到北新竹再換後來還是決定在新竹換。
 
