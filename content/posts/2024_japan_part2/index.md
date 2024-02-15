@@ -13,6 +13,7 @@ katex: true
 keywords:
   - 生活紀錄
   - 旅行
+  - 富山
   - 石川
   - 福井
 ---
@@ -27,7 +28,7 @@ keywords:
 
 ## 行程規劃
 
-{{< figure src="route_map.png" width="100%"  caption="大致的行程規劃，藉一下導遊的圖">}}
+{{< figure src="route_map.png" width="100%"  caption="大致的行程規劃，借一下導遊的圖">}}
 
 ## Day 4 (1/5)
 
