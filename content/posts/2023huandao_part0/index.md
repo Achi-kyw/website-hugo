@@ -5,7 +5,7 @@ slug: ""
 description: ""
 keywords: []
 draft: false
-tags: [遊記,區間車系列]
+tags: [遊記,區間車系列,環島]
 categories: [札記]
 math: true
 toc: false
@@ -18,11 +18,11 @@ description: 松山-瑞芳-八斗子-菁桐-瑞芳-臺北
 
 這篇是環島系列的前傳，加上記憶有點久遠，所以篇幅較短。
 
-系列文章請參考[這裡](https://achi-kyw.github.io/tags/%E5%8D%80%E9%96%93%E8%BB%8A%E7%B3%BB%E5%88%97/)
+系列文章請參考[這裡](https://achi-kyw.github.io/tags/%E7%92%B0%E5%B3%B6/)
 
 
 
-TR Pass 學生版最短也要用五天，只用兩天太可惜了，前一天先去搭平溪深澳線，除了三貂嶺到十分之外我也沒搭過。
+TR Pass 學生版最短也要用五天，只用兩天太可惜了，前一天(6/19)先去搭平溪深澳線，除了三貂嶺到十分之外我也沒搭過。
 
 這是這天搭的班次
 
