@@ -63,7 +63,7 @@ keywords:
 
 {{< figure src="keishin_1.jpg" width="50%"  caption="整段最陡的有千分之四十的坡度，所以也算是登山鐵路">}}
 
-{{< figure src="keishin_1.jpg" width="50%"  caption="接近終點這邊有路面電車B型路權的路段">}}
+{{< figure src="keishin_2.jpg" width="50%"  caption="接近終點這邊有路面電車B型路權的路段">}}
 
 要排大津的景點的時候考慮到去不了太遠的地方如延曆寺或石山寺，選了一個交通方便且算是知名的地方-近江神宮，不然以後可能也很難有機會來大津了。
 
@@ -235,7 +235,7 @@ keywords:
 
 早上前往清水寺參拜，但有一些人要搭 JR 去宇治去京都站放行李，所以後來只有兩個人先到清水寺。去程的時候有經過三年坂。
 
-{{< figure src="kobe_8.jpg" width="50%"  caption="三年坂">}}
+{{< figure src="sannei.jpg" width="50%"  caption="三年坂">}}
 
 進到清水寺重點當然就是清水舞台了。
 
@@ -353,6 +353,6 @@ keywords:
 
 {{< figure src="ferry_1.jpg" width="50%"  caption="大阪南港開往新門司港的船">}}
 
-{{< figure src="ferry_1.jpg" width="50%">}}
+{{< figure src="ferry_2.jpg" width="50%">}}
 
-{{< figure src="ferry_1.jpg" width="50%"  caption="船內照片">}}
+{{< figure src="ferry_3.jpg" width="50%"  caption="船內照片">}}

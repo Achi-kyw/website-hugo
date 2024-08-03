@@ -56,7 +56,7 @@ keywords:
 
 {{< figure src="shimonoseki_2.jpg" width="50%"  caption="赤間神宮">}}
 
-{{< figure src="shimonoseki_3.jpg" width="50%"  caption="日清講和紀念館，也就是簽訂馬關條約的地方被保留了下來，己載了相關的歷史，附近還有一條李鴻章道">}}
+{{< figure src="shimonoseki_3.jpg" width="50%"  caption="日清講和紀念館，也就是簽訂馬關條約的地方被保留了下來，紀載了相關的歷史，附近還有一條李鴻章道">}}
 
 {{< figure src="shimonoseki_4.jpg" width="50%"  caption="唐戶市場，原本預計是要在這邊吃午餐">}}
 
