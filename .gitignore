@@ -1,3 +1,4 @@
 *.txt
 themes
 .vscode
+.DS_Store
